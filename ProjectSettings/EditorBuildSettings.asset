@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Over.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Through.unity
+    guid: 2386bd38062fa84418d1ebf2d7de2ba6
+  - enabled: 1
+    path: Assets/Scenes/Dark.unity
+    guid: 683713308fbc1a34d9ed28f69545e82d
+  - enabled: 1
+    path: Assets/Scenes/Oscilating.unity
+    guid: 2ae79bd834b64b54095de929d1c846d5
   m_configObjects: {}
